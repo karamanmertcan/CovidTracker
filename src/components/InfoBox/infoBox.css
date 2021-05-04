@@ -1,0 +1,23 @@
+.info-box {
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  background-color: #eeeeee;
+  margin-top: 5rem;
+}
+
+.case {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #616161;
+}
+
+.case-amount {
+  font-size: 30px;
+  color: #f15025;
+}
+
+.total-amount {
+  font-size: 20px;
+  color: #616161;
+}
